@@ -15,3 +15,5 @@
 `git pull`
 <br>
 `git checkout develop`
+<br>
+video link : https://drive.google.com/file/d/1-QUYEdrvYDQF09Otc9oyaSD-ZQd43la9/view?usp=sharing
