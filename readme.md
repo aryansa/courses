@@ -1,9 +1,9 @@
 ## Quick Start Courses for Students
 
-##<a href="/git/" >  Git </a>
-Advance Programming - Spring2019
+##Git 
+<a href="/git/"> Advance Programming - Spring2019 </a>
 
-##<a href="/web_basics/" >  Web Basics </a>
-Web Programming course - Fall2020
-### Concepts 
+## Web Basics
+<a href="/web_basics/"> Web Programming course - Fall2020 </a>
+<li>
 API, REST, CRUD, API DOCUMENTS, JWT TOKENS
